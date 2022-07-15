@@ -1,0 +1,18 @@
+
+.home__row {
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-color: black;
+}
+
+.each-slide > div {
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    z-index:-1;
+  }
+  
